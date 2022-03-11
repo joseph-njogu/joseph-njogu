@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/joseph-njogu/joseph-njogu/main/readme_header.png "Header")]
+<img src="readme_header.png" width="100">
 # Hello, Devs! <img src="wave.gif" width="30px">
 My name is Joseph Njogu and I'm a software developer/DevOps engineer. I'm from Kenya, living in Nairobi You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 

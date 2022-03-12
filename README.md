@@ -44,5 +44,5 @@ My name is Joseph Njogu and I'm a software developer/DevOps engineer. I'm from K
 
 [1]: https://twitter.com/josephnjogu487
 [2]: https://github.com/joseph-njogu
-[3]: https://www.linkedin.com/in/oseph-njogu-b39544182/
+[3]: https://www.linkedin.com/in/joseph-njogu-b39544182/
 

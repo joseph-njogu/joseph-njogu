@@ -19,7 +19,7 @@ My name is Joseph Njogu and I'm a software developer/DevOps engineer. I'm from K
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/joseph-njogu/joseph-njogu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-njogu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-njogu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/joseph-njogu/joseph-njogu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-njogu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joseph's GitHub Stats" />

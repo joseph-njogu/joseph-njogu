@@ -17,7 +17,6 @@ My name is Joseph Njogu and I'm a software developer/DevOps engineer. I'm from K
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joseph-njogu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/joseph-njogu/github-readme-stats#gh-dark-mode-only)
 
 <a href="https://github.com/joseph-njogu/joseph-njogu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-njogu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />

@@ -17,9 +17,10 @@ My name is Joseph Njogu and I'm a software developer/DevOps engineer. I'm from K
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=gcp&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joseph-njogu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/joseph-njogu/github-readme-stats#gh-dark-mode-only)
 
 <a href="https://github.com/joseph-njogu/joseph-njogu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-njogu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-njogu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
 </a>
 <a href="https://github.com/joseph-njogu/joseph-njogu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-njogu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joseph's GitHub Stats" />
@@ -28,11 +29,14 @@ My name is Joseph Njogu and I'm a software developer/DevOps engineer. I'm from K
 <a href="https://github.com/joseph-njogu/meeting-scheduler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=meeting-scheduler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/joseph-njogu/Django_local_lib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=Django_local_lib&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/joseph-njogu/Docker-reusables">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=Docker-reusables&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-<a href="https://github.com/joseph-njogu/eldohubcodingchallenge-crudapplication ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=eldohubcodingchallenge-crudapplication&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/joseph-njogu/once_sync ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=once_sync&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/joseph-njogu/StringReverseApi ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=StringReverseApi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)

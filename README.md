@@ -42,17 +42,19 @@ I am a software and DevOps Engineer currently working with Optimal Operational I
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-njogu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&&theme=radical" alt="Joseph's GitHub Stats" />
 </a>
 
-
 <a href="https://github.com/joseph-njogu/meeting-scheduler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=meeting-scheduler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/joseph-njogu/Docker-reusables">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=Docker-reusables&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
+
 <a href="https://github.com/joseph-njogu/once_sync">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=once_sync&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/joseph-njogu/StringReverseApi ">
+
+<a href="https://github.com/joseph-njogu/StringReverseApi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=StringReverseApi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 

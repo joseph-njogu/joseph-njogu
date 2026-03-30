@@ -1,7 +1,6 @@
 <!-- [![Header](https://raw.githubusercontent.com/joseph-njogu/joseph-njogu/main/readme_header.png "Header")] -->
 # Hello, Devs! <img src="wave.gif" width="30px">
-I am a software and DevOps Engineer currently working at ARC Ride Kenya, an EV company based in London and its branches in Kenya. I have previously worked for Cherehani Agriculture also known as Fuga Africa as a DevOps Engineer, worked for Savannah Informatics as a software Engineer and lastly Cryosoft Inc as a Software and Infrastructure Enginee
-[![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I am a software and DevOps Engineer currently working with Optimal Operational Interface Kenya as the CTO.
 
 ## 🔧 Technologies & Tools
 [![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)](https://www.python.org)
@@ -50,7 +49,7 @@ I am a software and DevOps Engineer currently working at ARC Ride Kenya, an EV c
 <a href="https://github.com/joseph-njogu/Docker-reusables">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=Docker-reusables&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-<a href="https://github.com/joseph-njogu/once_sync ">
+<a href="https://github.com/joseph-njogu/once_sync">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=once_sync&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/joseph-njogu/StringReverseApi ">

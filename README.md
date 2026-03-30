@@ -35,21 +35,15 @@ I am a software and DevOps Engineer currently working with Optimal Operational I
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/joseph-njogu/meeting-scheduler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=meeting-scheduler&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=meeting-scheduler" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=once_sync" />
+</p>
 
-<a href="https://github.com/joseph-njogu/Docker-reusables">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=Docker-reusables&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/joseph-njogu/once_sync">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=once_sync&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/joseph-njogu/StringReverseApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=StringReverseApi&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=Docker-reusables" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=StringReverseApi" />
+</p>
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)

@@ -35,27 +35,20 @@ I am a software and DevOps Engineer currently working with Optimal Operational I
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/joseph-njogu/joseph-njogu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-njogu&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
-</a>
-<a href="https://github.com/joseph-njogu/joseph-njogu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-njogu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&&theme=radical" alt="Joseph's GitHub Stats" />
-</a>
-
 <a href="https://github.com/joseph-njogu/meeting-scheduler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=meeting-scheduler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=meeting-scheduler&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/joseph-njogu/Docker-reusables">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=Docker-reusables&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=Docker-reusables&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/joseph-njogu/once_sync">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=once_sync&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=once_sync&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/joseph-njogu/StringReverseApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=StringReverseApi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joseph-njogu&repo=StringReverseApi&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
